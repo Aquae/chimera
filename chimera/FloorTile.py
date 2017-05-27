@@ -1,0 +1,2 @@
+class FloorTile(object):
+	pass
